@@ -1,0 +1,32 @@
+{
+  "name": "jasmine-polyfills",
+  "homepage": "https://github.com/cobbdb/jasmine-polyfills",
+  "authors": [
+    "cobbdb <cobbdb@gmail.com>"
+  ],
+  "description": "Polyfill createTextNode and createElement for IE6 and IE7 support for Jasmine tests.",
+  "main": "src/polyfills.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jasmine",
+    "tests",
+    "ie6",
+    "ie7",
+    "polyfill",
+    "internetexplorer",
+    "legacy",
+    "support",
+    "createtextnode",
+    "createelement"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
